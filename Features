@@ -1,0 +1,23 @@
+# GoPool Features
+
+## 1. User Authentication
+- Login
+- Sign-up
+- Password recovery
+
+## 2. Ride Management
+- Post a ride
+- Search for rides
+- View ride details
+
+## 3. Booking System
+- Book a ride
+- Cancel booking
+
+## 4. Payment Integration
+- Online payment options
+- Payment confirmation
+
+## 5. Ratings and Reviews
+- Rate drivers
+- Post and view reviews
