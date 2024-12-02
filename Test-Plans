@@ -1,0 +1,26 @@
+# Test Plan for GoPool Web Application by Visagan.
+
+## 1. Objective
+To ensure the GoPool ride-sharing platform functions correctly and provides a seamless user experience.
+
+## 2. Scope
+Testing the following modules:
+- User authentication
+- Ride posting and searching
+- Booking and payment
+- Ratings and reviews
+
+## 3. Testing Types
+- Functional Testing
+- Usability Testing
+- UI/UX Testing
+- Compatibility Testing
+
+## 4. Tools
+- Browser: Chrome, Firefox, Safari
+- Platforms: Windows, macOS, Mobile Browsers
+
+## 5. Deliverables
+- Test Cases
+- Bug Reports
+- Test Summary Report
