@@ -18,7 +18,7 @@ The test cases are stored in an **Excel file** .
   - Sheet 10: **Give Ride**
   - Sheet 11: **Take Ride**
   - Sheet 12: **Admin Login**
-  - Sheet 13: **Admin Mangement**
+  - Sheet 13: **Admin Management**
 
 
 
